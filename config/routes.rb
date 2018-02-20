@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get 'home/checkr'
 
-  root 'home#flynn'
+  root 'home#sparks'
 
   get 'home/flynn'
 
